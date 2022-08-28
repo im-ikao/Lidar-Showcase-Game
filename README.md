@@ -1,5 +1,5 @@
 <br/>
-<p align="center"><img src="https://i.ibb.co/7gMtQRG/chrome-K8-FH9vpk7-Y.png" /> </p>
+<p align="center"><img src="https://i.ibb.co/xjv2ZZH/Unity-sn-X0ww-GWz-Q.jpg" /> </p>
 <h1 align="center">
   Lidar Showcase Game
 </h1>
